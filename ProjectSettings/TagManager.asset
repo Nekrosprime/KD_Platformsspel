@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - InvisibleWall
+  - InvisibleWall2
+  - InvisibleWall3
+  - InvisibleWall 4
+  - InvisibleWall5
   layers:
   - Default
   - TransparentFX
